@@ -2,7 +2,7 @@
 
 ![Neon Compiler Screenshot]
 
-![image alt]([https://github.com/dhuv03/compiler/blob/5c05a5fb2f92d42feed83f1be98529981fa54501/Screenshot%202025-06-04%20152620.jpg](https://github.com/dhuv03/Neon-Compiler/blob/8431ed5a5354359d798b0a635756912f38bbfd65/Screenshot%202025-06-04%20152620.jpg))
+![image alt](https://github.com/dhuv03/Neon-Compiler/blob/20d6a352552c537eb892f4f2e5701fc756e2830a/Screenshot%202025-06-04%20152620.jpg)
 
 A sleek, web-based code editor with real-time preview, syntax highlighting, and console debugging capabilities. Designed for developers who want a lightweight, visually appealing coding environment right in their browser.
 
